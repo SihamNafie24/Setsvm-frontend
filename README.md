@@ -6,7 +6,7 @@
 
 > An interactive learning platform built with modern web technologies to provide an engaging educational experience.
 
-## 🚀 Features
+##  Features
 
 - **Interactive Learning**: Engaging courses with progress tracking
 - **User Authentication**: Secure signup and login with email/password
@@ -14,7 +14,7 @@
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Modern Tech Stack**: Built with the latest web technologies
 
-## 🛠 Technologies
+##  Technologies
 
 ### Frontend
 - **Framework**: [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/)
@@ -31,7 +31,7 @@
 - **Authentication**: JWT (JSON Web Tokens)
 - **API**: RESTful API with TypeScript
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
