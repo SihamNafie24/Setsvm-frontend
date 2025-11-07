@@ -1,0 +1,7 @@
+/**
+ * Server-only helper to emit a script tag exactly once during SSR.
+ * Appends an internal marker to signal hydration completion.
+ */
+export declare function ScriptOnce({ children }: {
+    children: string;
+}): import("react/jsx-runtime").JSX.Element | null;

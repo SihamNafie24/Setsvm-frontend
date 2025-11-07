@@ -1,0 +1,15 @@
+const TSS_FORMDATA_CONTEXT = "__TSS_CONTEXT";
+const TSS_SERVER_FUNCTION = Symbol.for("TSS_SERVER_FUNCTION");
+const TSS_SERVER_FUNCTION_FACTORY = Symbol.for(
+  "TSS_SERVER_FUNCTION_FACTORY"
+);
+const X_TSS_SERIALIZED = "x-tss-serialized";
+const X_TSS_RAW_RESPONSE = "x-tss-raw";
+export {
+  TSS_FORMDATA_CONTEXT,
+  TSS_SERVER_FUNCTION,
+  TSS_SERVER_FUNCTION_FACTORY,
+  X_TSS_RAW_RESPONSE,
+  X_TSS_SERIALIZED
+};
+//# sourceMappingURL=constants.js.map
