@@ -79,7 +79,7 @@
    - Frontend: http://localhost:3000
    - API Documentation: http://localhost:3001/api (when running in development mode)
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 setsvm/
@@ -108,7 +108,7 @@ setsvm/
 └── package.json           # Frontend dependencies and scripts
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
@@ -118,7 +118,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
