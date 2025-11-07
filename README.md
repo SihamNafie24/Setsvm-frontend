@@ -2,7 +2,7 @@
 
 > Created by [Siham Nafie](https://github.com/SihamNafie24)
 
-![Setsvm Logo](public/logo.svg)
+
 
 > An interactive learning platform built with modern web technologies to provide an engaging educational experience.
 
@@ -122,7 +122,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [TanStack](https://tanstack.com/) for amazing React tools
 - [TailwindCSS](https://tailwindcss.com/) for utility-first CSS
@@ -131,5 +131,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/SihamNafie24" target="_blank">Siham Nafie</a>
+  Made ❤️ by <a href="https://github.com/SihamNafie24" target="_blank">Siham Nafie</a>
 </p>
