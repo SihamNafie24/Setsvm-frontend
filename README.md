@@ -128,8 +128,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [TailwindCSS](https://tailwindcss.com/) for utility-first CSS
 - All contributors who have helped shape this project
 
----
 
-<p align="center">
-  Made ❤️ by <a href="https://github.com/SihamNafie24" target="_blank">Siham Nafie</a>
-</p>
+
